@@ -9638,7 +9638,7 @@
   "resolved" "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz"
   "version" "1.0.0"
 
-"json-server@^0.17.0":
+"json-server@^0.17.4":
   "integrity" "sha512-bGBb0WtFuAKbgI7JV3A864irWnMZSvBYRJbohaOuatHwKSRFUfqtQlrYMrB6WbalXy/cJabyjlb7JkHli6dYjQ=="
   "resolved" "https://registry.npmjs.org/json-server/-/json-server-0.17.4.tgz"
   "version" "0.17.4"
